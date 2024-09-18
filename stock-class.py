@@ -33,7 +33,7 @@ Naming tuples for better readability?
 
 Error handling
  - create some custom exceptions for error handling
- - USE THIS, extremely good practice, not everything runs perfectly always
+ - USE THIS, extremely good practice, not everything runs perfectly always! (ofc)
 
 """
 

@@ -1,5 +1,6 @@
 # Analysis of Trading Strategies through Backtesting
 
+## **WORKING PRODUCT NOT YET AVAILABLE** 
 ## Overview
 This project is a comprehensive backtesting tool for analyzing stock market trading strategies over different time frames and scenarios. It implements data visualization techniques, efficient algorithms, object-oriented programming (OOP), and advanced data structures to provide robust, and insightful analysis of trading strategies.
 
