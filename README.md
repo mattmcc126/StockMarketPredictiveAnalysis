@@ -1,7 +1,7 @@
 # Analysis of Trading Strategies through Backtesting
 
 ## Overview
-This project is a comprehensive backtesting tool for analyzing stock market trading strategies over different time frames. It implements data visualization techniques, efficient algorithms, object-oriented programming (OOP), and advanced data structures to provide robust, and insightful analysis of trading strategies.
+This project is a comprehensive backtesting tool for analyzing stock market trading strategies over different time frames and scenarios. It implements data visualization techniques, efficient algorithms, object-oriented programming (OOP), and advanced data structures to provide robust, and insightful analysis of trading strategies.
 
 ## Key Features
 - **Backtesting**: Test and evaluate multiple trading strategies using historical market data.
@@ -17,7 +17,7 @@ This project is a comprehensive backtesting tool for analyzing stock market trad
 (Provide code snippets / cmdln example here for basic usage)
 
 ## License
-MIT liscense
+MIT license
 
 ## Contact
 If you have any questions or would like to give advice for future updates, feel free to reach out to me at mattmccune03@gmail.com. 
